@@ -6,4 +6,4 @@ Portada de diario digital construida con HTML semántico, CSS Flexbox y enfoque 
 
 ## Ver online
 
-[Ver en GitHub Pages](#)
+[Ver en GitHub Pages](https://rodom.github.io/rodo-daw-2026-tp-1/)
